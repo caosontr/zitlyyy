@@ -32,7 +32,7 @@ body {
 
 .cardFront {
   position: relative;
-  background-image: url('/image/Screenshot_20240306-092203~2.png');
+  background-image: url('/Screenshot_20240306-092203~2.png');
   background-size: 100% 105%; /* Điều chỉnh thuộc tính này */
   width: 250px;
   height: 400px;
